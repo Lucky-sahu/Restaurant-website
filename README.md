@@ -22,7 +22,7 @@ What are the benefits of Online Restaurant Websites?
 
 ## Installation
 
-Install my-project with npm
+Step-by-step instructions on how to install and get the project running.
 
 ```bash
 # clone the repository 
